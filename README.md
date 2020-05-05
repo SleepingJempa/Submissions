@@ -1,2 +1,2 @@
 # Submissions
-My own submissions repository
+My submissions for complicated problems.
